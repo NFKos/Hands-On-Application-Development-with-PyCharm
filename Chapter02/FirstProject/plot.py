@@ -7,3 +7,6 @@ if __name__ == '__main__':
 
     plt.plot(x, y)
     plt.show()
+
+    #This should move to my GitHub:
+    print("Test thing that I added just to try out!")
